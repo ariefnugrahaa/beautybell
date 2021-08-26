@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Beauty Bell</string>
+    <string name="status_placeholder">Active</string>
+    <string name="fullname_placeholder">John Doe</string>
+    <string name="updated_at_placeholder">08 April 2012</string>
+    <string name="placeholder_total_price">150.000</string>
+    <string name="placeholder_currency">IDR</string>
+    <string name="placeholder_phone_number_title">Phone number</string>
+    <string name="placeholder_phone_number">+6212312</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="placeholder_user">user</string>
+    <string name="placeholder_description">Description</string>
+    <string name="placeholder_price">Price:</string>
+    <string name="placeholder_services_name">Nama services</string>
+    <string name="placeholder_search">Search</string>
+    <string name="placeholder_list_of_artisan">List of artisan</string>
+    <string name="placeholder_artisan_menu">Artisan Menu</string>
+    <string name="placeholder_detail_artisan">Detail artisan</string>
+    <string name="placeholder_profile">Profile</string>
+    <string name="placeholder_arief">Arief</string>
+    <string name="placeholder_name">Name:</string>
+    <string name="placeholder_birth_of_date">Birth of date:</string>
+    <string name="placeholder_email">Email:</string>
+    <string name="placeholder_login">Login</string>
+    <string name="hint_login_name">Name</string>
+    <string name="button_text_login">Login</string>
+    <string name="hint_login_password_edit_text">Password</string>
+    <string name="facebook_app_id">1017546065673067</string>
+    <string name="fb_login_protocol_scheme">fb1017546065673067</string>
+    <string name="beauty_bell">Beauty Bell</string>
+    <string name="profile">Profile</string>
+    <string name="artisan">Artisan</string>
+    <string name="log_in">Log in</string>
+
+</resources>

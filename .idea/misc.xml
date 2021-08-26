@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/itmi/app/src/main/res/drawable/placeholder_prescription.xml" value="0.3416666666666667" />
+        <entry key="..\:/itmi/app/src/main/res/layout-v21/item_detail_services.xml" value="0.2898550724637681" />
+        <entry key="..\:/itmi/app/src/main/res/layout-v21/item_orders.xml" value="0.2871376811594203" />
+        <entry key="..\:/itmi/app/src/main/res/layout-v21/shimmer_loading_item.xml" value="0.3262279888785913" />
+        <entry key="..\:/itmi/app/src/main/res/layout/activity_detail.xml" value="0.27898550724637683" />
+        <entry key="..\:/itmi/app/src/main/res/layout/activity_login.xml" value="0.2898550724637681" />
+        <entry key="..\:/itmi/app/src/main/res/layout/activity_main.xml" value="0.2898550724637681" />
+        <entry key="..\:/itmi/app/src/main/res/layout/activity_order.xml" value="0.2871376811594203" />
+        <entry key="..\:/itmi/app/src/main/res/layout/fragment_artisan.xml" value="0.2898550724637681" />
+        <entry key="..\:/itmi/app/src/main/res/layout/fragment_detail.xml" value="0.2898550724637681" />
+        <entry key="..\:/itmi/app/src/main/res/layout/fragment_profile.xml" value="0.2898550724637681" />
+        <entry key="..\:/itmi/app/src/main/res/layout/item_artisan.xml" value="0.2898550724637681" />
+        <entry key="..\:/itmi/app/src/main/res/layout/item_orders.xml" value="0.2871376811594203" />
+        <entry key="..\:/itmi/app/src/main/res/menu/menu.xml" value="0.365625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

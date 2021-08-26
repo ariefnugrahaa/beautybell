@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="Shimmer">
+        <attr name="layout" format="reference" />
+        <attr name="backgroundColorShimmer" format="enum">
+            <enum name="white" value="0" />
+            <enum name="grey" value="1" />
+        </attr>
+        <attr name="gradient_center_color_width" format="float|reference" />
+    </declare-styleable>
+
+</resources>

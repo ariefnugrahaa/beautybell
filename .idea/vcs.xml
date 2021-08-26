@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SecurityOnline" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TheMovieDB" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android-mvvm-dagger-2-rxjava-example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/anilo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/axiataarief" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ltc-android-native" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pkbpdsi" vcs="Git" />
+  </component>
+</project>

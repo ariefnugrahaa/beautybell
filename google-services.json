@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "374405021993",
+    "project_id": "beautybell-1629950256293",
+    "storage_bucket": "beautybell-1629950256293.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374405021993:android:82e0dc03799647f264f738",
+        "android_client_info": {
+          "package_name": "com.example.beautybell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374405021993-o13n3h2g211ji5f4gcnnbueefdjpvfh5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.beautybell",
+            "certificate_hash": "91b1ac8bc305fce44383f6d4c3c2d610286c4fa5"
+          }
+        },
+        {
+          "client_id": "374405021993-cm3fc3oe3l6irqk11t4ccmb2b1e7uub8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLbZ66ZDWj6x66La4rbrVE_hw1kH6gxjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374405021993-cm3fc3oe3l6irqk11t4ccmb2b1e7uub8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
